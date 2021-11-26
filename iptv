@@ -1,0 +1,275 @@
+#EXTM3U8
+#EXTINF:-1 group-title="Nasional" ,TRANS TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 group-title="Nasional" ,MNC Video
+https://visionplus-stream.visionplus.id:443/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka-avc1_499968=5-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="Nasional",Indosiar
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+#EXTINF:-1 group-title="Nasional",RCTI
+http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
+#EXTINF:-1 group-title="Nasional",SCTV
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+#EXTINF:-1 group-title="Nasional",ANTV
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+#EXTINF:-1 group-title="Nasional",Trans7
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 group-title="Nasional",GTV
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+#EXTINF:-1 group-title="Nasional",NET TV
+https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+#EXTINF:-1 group-title="Nasional" ,RTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 group-title="Nasional",TVONE
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
+#EXTINF:-1 group-title="Nasional" ,Kompas TV
+https://s.id/sbiptv-kompastv
+#EXTINF:-1 group-title="Nasional",CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 group-title="Nasional",Elshinta
+http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="Nasional",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="Nasional",Metro TV
+http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
+#EXTINF:-1 group-title="Nasional",MyTV
+http://goldenlivektv.com/Comot_Lagi_Bae/Mytv_channel_ktv.m3u8
+#EXTINF:-1 group-title="Nasional",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 group-title="Entertainment",TVN
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="Entertainment",K+
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+#EXTINF:-1 group-title="Entertainment",ONE
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="Entertainment",GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+#EXTINF:-1 group-title="Entertainment",Wakuwaku
+http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
+#EXTINF:-1 group-title="Entertainment",AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#EXTINF:-1 group-title="Entertainment",TVNMOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1 group-title="Entertainment",KIX
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+#EXTINF:-1 group-title="Entertainment",HITS
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png",Blue Ant
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="Entertainment",Blue Ant Extreme
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="Entertainment",CELESTIALMOVIES
+http://playlist.urfan.web.id/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 group-title="Entertainment",CINEMAWOLRD
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+#EXTINF:-1 group-title="Entertainment",ZEEBIOSKOP
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 group-title="Entertainment",THRILL
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 group-title="Entertainment",EggNet
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+#EXTINF:-1 group-title="Entertainment" ,TVN ID
+http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Blue Ant Extreme
+http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="Entertainment" ,K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Sony GEM TV
+http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Sony One
+http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="Entertainment",Sony One
+http://210.210.155.35:80/uq2663/h/h143/01.m3u8?eroz84.wap.sh.m3u8
+#EXTINF:-1 group-title="Entertainment",Dunia Games TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+#EXTINF:-1 group-title="Knowledge",National Geographic
+https://s.id/sbiptv-natgeo
+http://topwin-tv.my.id/2/master.m3u8?id=natgeo
+#EXTINF:-1 group-title="Knowledge",nat geo people
+https://s.id/sbiptv-natgeopeple
+#EXTINF:-1 group-title="Knowledge",Nat Geo Wild
+https://s.id/sbiptv-natgeowild
+#EXTINF:-1 group-title="Knowledge",History
+https://s.id/sbiptv-history
+#EXTINF:-1 group-title="Knowledge",Discovery Channel
+https://s.id/sbiptv-discoverychanel
+#EXTINF:-1 group-title="Knowledge",Animal Planet
+https://s.id/sbiptv-animalplanet
+#EXTINF:-1 group-title="Knowledge",Poeple Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 group-title="Knowledge",TVKu
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="Knowledge",SILENCE TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge",CGTN DOCUMENTARY
+http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 group-title="Knowledge",AFN
+https://s.id/sbiptv-afn
+#EXTINF:-1 group-title="Knowledge",DIGIONE MAXstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:-1 group-title="Kids",Animax
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="Kids",Aniplus
+http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="Kids",horee
+https://s.id/sbiptv-horee
+#EXTINF:-1 group-title="Kids",DreamWork
+https://s.id/sbiptv-dreamwork
+#EXTINF:-1  group-title="Kids",Nicklodeon
+https://s.id/sbiptv-nick
+#EXTINF:-1 group-title="Kids",cartoonetwork
+https://s.id/sbiptv-CNT
+#EXTINF:-1 group-title="Kids",spacetoon
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Kids",mykids
+https://s.id/sbiptv-mykidz
+#EXTINF:-1 group-title="Kids",EBS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
+#EXTINF:-1 group-title="Movies",HBO
+https://s.id/sbiptv-hbo
+#EXTINF:-1 group-title="Movies",HBO Signature
+https://s.id/sbiptv-hbosig
+#EXTINF:-1 group-title="Movies",HBO Hits
+https://s.id/sbiptv-hbohits
+#EXTINF:-1 group-title="Movies",HBO Family
+https://s.id/sbiptv-hbofam
+#EXTINF:-1 group-title="Movies",CINEMAX
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movies",CelestialMovie
+http://rr2.dens.tv/s/s33/01.m3u8
+#EXTINF:-1 group-title="Movies",Bioskop Indonesia
+http://abdrahim.my.id/live/tvindo/citrabioskop.m3u8
+#EXTINF:-1 group-title="Movies",Sinema Indonesia
+http://rr.dens.tv/h/h155/index2.m3u8
+#EXTINF:-1 group-title="Movies",ZEE Bioskop
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1 group-title="Movies",MyCinema
+http://rr.dens.tv/h/h90/S4/mnf.m3u8
+#EXTINF:-1 group-title="Movies" ,MyCinema  Europe
+http://rr.dens.tv/h/h18/01.m3u8
+#EXTINF:-1 group-title="Movies" ,Warner TV
+https://s.id/sbiptv-warnertv
+#EXTINF:-1 group-title="Religi",DAAI
+http://rr2.dens.tv/s/s13/index.m3u8
+#EXTINF:-1 group-title="Religi",MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+#EXTINF:-1 group-title="Religi",Rodja TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+#EXTINF:-1 group-title="Religi",Al Quran Al Kareem TV
+http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 group-title="Religi",AL Sunnah Nabawi TV
+http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 group-title="Religi",Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+#EXTINF:-1 group-title="Religi",Makkah
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 group-title="Religi",Iqra TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 group-title="Religi",ADI_TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Religi",Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1 group-title="Religi",Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist_w1427178391.m3u8
+#EXTINF:-1 group-title="Religi",Map Palembang TV
+https://re1.siar.us/maptv/live/playlist.m3u8
+#EXTINF:-1 group-title="Musik",Prambors
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 group-title="Musik",MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Musik",AmoyHouseRelax
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
+#EXTINF:-1 group-title="Musik" tvg-logo="https://static.colectivosvip.com/public/colectivos/390/logo.png",molaTV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="Musik" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="Musik",Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1   group-title="Sport", astrosport 1
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
+#EXTINF:-1   group-title="Sport", astrosport 2
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
+#EXTINF:-1   group-title="Sport", astrosport 3
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
+#EXTINF:-1   group-title="Sport", astrosport 4
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
+#EXTINF:-1   group-title="Sport", astrosport 5
+http://194.233.78.49:2082/live/DurianTv/EbnZTI6oI8/8649.ts
+#EXTINF:-1 group-title="Sport",ASTRO ARENA
+https://dik.si/ShareExtArena1?shareext.m3u8
+#EXTINF:-1 group-title="Sport",ASTRO ARENA2
+https://dik.si/SEarena2?shareext.m3u8
+#EXTINF:-1   group-title="Sport", RTM SUKAN
+https://dik.si/SErtmSport?shareext.m3u8
+#EXTINF:-1  group-title="Sport",ESTV 
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="bein Sport",BEIN 3
+http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6124/index.m3u8
+#EXTINF:-1  group-title="bein Sport",BEIN 2
+http://23.88.39.74:80/live/69854211/index.m3u8
+#EXTINF:-1   group-title="bein Sport",BEIN 1
+http://88.barouhn.xyz.global.prod.fastly.net/live/6161655001/index.m3u8
+#EXTINF:-1 group-title="Sport LOKAL",usee sport 1
+https://dik.si/SEuseesports?SHAREEXT.m3u8
+#EXTINF:-1 group-title="Sport LOKAL",usee sport 2
+https://dik.si/SEuseesport2?SHAREEXT.m3u8
+#EXTINF:-1 group-title="Sport LOKAL",CHAMPION 1
+https://dik.si/SEchampiontv1?shareext.m3u8
+#EXTINF:-1 group-title="Sport LOKAL",CHAMPION 2
+https://dik.si/SEchampiontv2?shareext.m3u8
+#EXTINF:-1 group-title="Sport LOKAL",CHAMPION 3
+https://dik.si/SEchampiontv3?shareext.m3u8
+#EXTINF:-1 group-title="Sport LOKAL", one sport
+https://dik.si/SEsportOne?shareext.m3u8
+#EXTINF:-1 group-title="Sport LOKAL",Court 1
+https://nontonbola.my.id/hustv/bwf1.m3u8?punyanya=gasss
+#EXTINF:-1 group-title="Sport LOKAL",Court 2
+https://nontonbola.my.id/hustv/bwf2.m3u8?punyanya=gasss
+#EXTINF:0 group-title="RADIO aptv" ,ARDAN 
+http://rootproject.pw/vidio/dew-5075.m3u8 
+#EXTINF:0 group-title="RADIO aptv" ,BRAVA 
+http://rootproject.pw/vidio/radio/bravaradio.m3u8 
+#EXTINF:0 group-title="RADIO aptv" ,EL-SHINTA 
+http://rootproject.pw/vidio/radio/elshintaradio.m3u8 
+#EXTINF:0 group-title="RADIO aptv" ,GEN 
+http://rootproject.pw/vidio/radio/genradio.m3u8 
+#EXTINF:0 group-title="RADIO aptv" ,HARD ROCK 
+http://rootproject.pw/vidio/radio/hardrockradio.m3u8 
+#EXTINF:0 group-title="RADIO aptv" ,iRADIO 
+http://rootproject.pw/vidio/radio/iradio.m3u8 
+#EXTINF:0 group-title="RADIO aptv" ,MGT RADIO 
+http://rootproject.pw/vidio/radio/mgtradio.m3u8 
+#EXTINF:0 group-title="RADIO aptv" ,PRAMBORS 
+http://rootproject.pw/vidio/radio/prambors.m3u8 
+#EXTINF:0 group-title="RADIO aptv" ,BARAMUDA 
+http://rootproject.pw/vidio/radio/pramudyakradio.m3u8
+#EXTINF:-1  group-title="MTV" , MTV LIVE
+http://iptv.prosto.tv:7000/ch128/video.m3u8
+#EXTINF:-1  group-title="MTV" , MTV 90S
+http://iptv.prosto.tv:7000/ch127/video.m3u8
+#EXTINF:-1  group-title="MTV" , MTV HITS
+http://iptv.prosto.tv:7000/ch126/video.m3u8
+#EXTINF:-1  group-title="MTV" , Club MTV
+http://iptv.prosto.tv:7000/ch125/video.m3u8
+#EXTINF:-1  group-title="MTV" , MTV
+http://iptv.prosto.tv:7000/ch124/video.m3u8
+#EXTINF:-1  group-title="MTV" , MTV 00S
+http://iptv.prosto.tv:7000/ch129/video.m3u8
+#EXTINF:-1  group-title="MTV" , MTV 80S
+http://iptv.prosto.tv:7000/ch130/video.m3u8
+#EXTINF:-1  group-title="Movies",Local Now Movies of the 30's and 40's 
+https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Local Now Movies of the 50's and 60's 
+https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="Movies",Local Now Movies of the 70's 
+https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="Movies",Local Now Movies of the 80's 
+https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="Movies",Local Now Movies of the 90's 
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="Movies",Local Now Movies of the 2000s 
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Local Now Movies of the 2010s 
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="Movies",Local Now Movies of the 2020s 
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
